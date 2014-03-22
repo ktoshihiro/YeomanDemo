@@ -3,3 +3,12 @@ dist
 .tmp
 .sass-cache
 app/bower_components
+
+# JetBrains IDEs
+.idea
+
+# Eclipse
+.project
+
+# sublime-grunt
+.sublime-grunt.cache
